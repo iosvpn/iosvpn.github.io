@@ -2,6 +2,9 @@
 
 由于GFW墙的持续升级、一轮一轮封锁，以及iOS系统自身的封闭性，目前在iPhone或iPad上使用VPN非常不方便，我自己也用iPhone，我的经验是使用苹果手机翻墙不如开放的安卓系统方便，连接所需时间和网络速度相对都差一些。而且随着防火长城的增高，适合在中国大陆苹果手机的翻墙软件已经没有几款了，比如前几年还不错的VyprVPN、NordVPN、PureVPN和iVacy，我都付费购买并在iPhone上安装了，但是最近2年越来越难用，NordVPN要连新出的线路，不过在iPhone APP里面经常连不上，不过可以选择手动设置翻墙，就是比较麻烦；VyprVPN、PureVPN和iVacy就不用说了，APP客户端直连大多数时候无法连接，即使更新了APP遇到新一轮封锁也坚持不了多久。**不知道为啥网上还有一些人说这些好用，我反正不推荐大家在iOS设备上使用上面这几款。**
 
+
+[![iPhone 翻墙VPN推荐](https://www.safewebcn.com/img/iphone-vpn-min.png "iPhone梯子")](#%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E6%8E%A8%E8%8D%90%E6%8C%87%E5%8D%97%E5%90%AB2020%E4%BC%98%E6%83%A0)
+
 **如果你想直接选择一款VPN，iPhone就能顺利翻墙，我建议你参考以下两款：**
 
 >
