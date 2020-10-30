@@ -1,9 +1,9 @@
 # iPhone与iOS VPN推荐，2020中国苹果手机翻墙软件避坑攻略
 
-由于GFW墙的持续升级、一轮一轮封锁，以及iOS系统自身的封闭性，目前在iPhone或iPad上使用VPN非常不方便，我自己也用iPhone，我的经验是使用苹果手机翻墙不如开放的安卓系统方便，连接所需时间和网络速度相对都差一些。而且随着防火长城的增高，适合在中国大陆苹果手机的翻墙软件已经没有几款了，比如前几年还不错的VyprVPN、NordVPN、PureVPN和iVacy，我都付费购买并在iPhone上安装了，但是最近2年越来越难用，NordVPN要连新出的线路，不过在iPhone APP里面经常连不上，不过可以选择手动设置翻墙，就是比较麻烦；VyprVPN、PureVPN和iVacy就不用说了，APP客户端直连大多数时候无法连接，即使更新了APP遇到新一轮封锁也坚持不了多久。**不知道为啥网上还有一些人说这些好用，我反正不推荐大家在iOS设备上使用上面这几款。**
+由于GFW墙的持续升级、一轮一轮封锁，以及iOS系统自身的封闭性，目前在iPhone或iPad上使用VPN非常不方便，我自己也用iPhone，我的经验是使用苹果手机fan qiang不如开放的安卓系统方便，连接所需时间和网络速度相对都差一些。而且随着防火长城的增高，适合在中国大陆苹果手机的翻墙软件已经没有几款了，比如前几年还不错的VyprVPN、NordVPN、PureVPN和iVacy，我都付费购买并在iPhone上安装了，但是最近2年越来越难用，NordVPN要连新出的线路，不过在iPhone APP里面经常连不上，不过可以选择手动设置翻墙，就是比较麻烦；VyprVPN、PureVPN和iVacy就不用说了，APP客户端直连大多数时候无法连接，即使更新了APP遇到新一轮封锁也坚持不了多久。**不知道为啥网上还有一些人说这些好用，我反正不推荐大家在iOS设备上使用上面这几款。**
 
 
-[![iPhone 翻墙VPN推荐](https://www.safewebcn.com/img/iphone-vpn-min.png "iPhone梯子")](#)
+[![iPhone 翻墙VPN推荐](https://www.safewebcn.com/img/iphone-vpn-min.png "iPhone梯子")](#iphone%E4%B8%8Eios-vpn%E6%8E%A8%E8%8D%902020%E4%B8%AD%E5%9B%BD%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E9%81%BF%E5%9D%91%E6%94%BB%E7%95%A5)
 
 **如果你想直接选择一款VPN，iPhone就能顺利翻墙，我建议你参考以下两款：**
 
@@ -58,7 +58,75 @@ iPhone版本的PureVPN大部分时候无法连接，有时显示已连接，但�
 
 注意，Apple ID要去苹果商店App Store里面进行登录，不要在设置里面登录。因为App Store里面只是涉及APP软件的安装和更新，设置里面会涉及到iCloud和其他隐私信息。
 
-未完，待更新
+## 最适合iPhone翻墙的VPN
+
+## 1.ExpressVPN – iPhone翻墙速度最快
+
+>2020年10月使用，确认可用，速度体验在我测试使用的几款中表现最好。
+
+[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
+
+ExpressVPN开始运营于2009年，属于英属维尔京群岛的一家公司，也是全球最大规模的VPN服务商。目前在我所使用和测试过的翻墙VPN中，ExpressVPN在中国大陆网络速度最快，因为和其他VPN品牌使用传统的硬盘服务器不同，ExpressVPN的服务器没有传统硬盘，流量直接在内存进行传输，比传统的硬盘服务器的数据传输速度快得多，而且内存是即时传输，不保留数据，对用户隐私信息的保护也更加安全。技术能力（防被封）出色且能快速应对防火长城的封锁，是最好用的iPhone翻墙VPN软件。因为硬件有较高的成本，使得价格相对较高一些，一分价钱一分货，适合要求较好速度体验的朋友。
+
+由于在中国用户众多，ExpressVPN售后服务还不错，应对防火长城的封锁反应很快，一般服务器IP被封2-3个工作日内就可以通过更新客户端解决推荐线路不能连接的问题，在封锁期使用L2TP–IPSec协议连接其他服务器也能使用，长期可用率能保持在95%左右，在中国使用能达到这样的翻墙软件真没几个能做到。
+
+### <center><a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank"> 获取ExpressVPN优惠 >></a></center>
+
+通过上面的优惠链接，进入官方的活动页面，额外获得1个季度的使用时间，在购买ExpressVPN后，你的注册邮箱会收到激活链接，打开链接重置密码即可。
+
+[![ExpressVPN](https://www.fastvpncn.com/wp-content/uploads/2020/10/iphone-expressvpn-homepage.png)](https://www.fastvpncn.com/expressvpn)
+
+**续费年套餐如何获得3个月优惠？**
+
+如果买了ExpresssVPN之后打算续费买**年套餐**的，通过本页面的优惠链接进入，然后**用新邮箱注册新账号，可以获得三个月的免费赠送**，旧账号续费或直接进官网购买年套餐是没有这个活动的。所以有续费打算的请收藏本页面，续费购买时**首先要断开ExpressVPN，清除浏览器cookie或者换一个浏览器，然后点击本页面的优惠链接进入官网，换一个新的Email进行注册购买就行了**。
+
+其他品牌续费获得优惠的操作方法也是一样的，因为一般年套餐的优惠只对新帐号开放，为了避免被系统认为是重复注册，需要清除浏览器cookie记录或者换一个浏览器再进行注册。
+
+ExpressVPN的服务器分布广泛，在全球94个国家和地区都有VPN服务器，对流量和带宽没有任何限制，能满足经常看视频和下载的用户的需求。ExpressVPN的客户端支持各种常见设备，并且可以配置在路由器上，在电脑（Windows、Mac和Linux）和移动设备（iPhone、iPad、安卓）上都可以安装客户端APP一键连接，支持最多5台设备同时连接使用。
+
+[![ExpressVPN支持设备](https://www.safewebcn.com/img/express-vpn-devices.png "ExpressVPN支持设备截图")](#)
+
+### iPhone和iOS设备下载安装ExpressVPN
+
+ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏览器Safari登录后台，选择“iPhone,iPad”选项，点击下载安装包，按照要求操作即可，在安装过程中可能出现提示信息，需要手动确认，根据提示点击下一步。安装完成之后，还要确认授权VPN信任。
+
+推荐使用外区的App Store一键安装和更新，以后更新客户端APP也方便。方法之前说过了，去淘宝购买国外Apple ID，几块钱一个，长期使用。
+
+[![ExpressVPN iPhone](https://www.fastvpncn.com/wp-content/uploads/2020/03/express-vpn-iOS-LA4-speed-test.png "ExpressVPN iPhone客户端")](#)
+
+有一点提示，首次在ExpressVPN App登录的时候，需要输入激活码，在后台一眼就能找到激活码（Activation Code）。
+
+### iPhone使用提示
+
+在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化：
+
+- Hong Kong–4
+- Japan - Yokohama
+- Singapore–Marina Bay
+- USA–Los Angeles–5
+- USA–Los Angeles–4
+- USA–Santa Monica
+- Canada - Toronto - 2
+- France - Strasbourg
+- Germany - Nuremberg
+
+除了推荐的VPN线路，**中国用户也可以在客户端APP的设置中改为“L2TP – IPsec”协议，使用其它的服务器线路**，L2TP – IPsec的服务器一般没有经过针对中国网络优化，速度和稳定性可能会不如官方推荐的服务器线路，不过可连的节点比较多，可以作为敏感时期的备用节点。
+
+…<a rel="nofollow noopener" href="https://www.fastvpncn.com/2020%e5%b9%b4expressvpn%e5%9c%a8%e5%9b%bd%e5%86%85%e4%bd%bf%e7%94%a8%e6%80%8e%e4%b9%88%e6%a0%b7%ef%bc%9f/" target="_blank">阅读ExpressVPN测评和使用提示</a>获取更多使用技巧和测试结果。
+
+### <center><a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank"> 获取ExpressVPN优惠 >></a></center>
+
+## 2.<a rel="nofollow noopener" href="#如何打开strongvpn官网" target="_blank"> StrongVPN – 性价比最佳</a>
+
+[![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
+
+>2020年10月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。
+
+StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
+
+StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。
+
+未完，待更新...
 
 参考文章来源：
 
