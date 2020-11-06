@@ -75,7 +75,7 @@ Astrill VPN记录用户日志：
 
 ## 1.ExpressVPN – iPhone翻墙速度最快
 
->2020年10月使用，确认可用，速度体验在我测试使用的几款中表现最好。
+>2020年11月使用，确认可用，速度体验在我测试使用的几款中表现最好。
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -179,6 +179,10 @@ StrongVPN从近2年开始也开始重视开发中国市场，售后服务也不�
 如果安装或者连接遇到问题，可以在官网的右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN UDP/TCP`**，UDP和TCP哪个好用用那个。
 
 ## 3.<a rel="nofollow noopener" href="http://linkv.org/panda/" target="_blank">PandaVPN</a>
+
+>2020年10月测试，确认可用，体验中规中矩。
+
+[![PandaVPN](https://www.safewebcn.com/img/panda-min.png)](http://linkv.org/panda/)
 
 如果你在找在苹果手机上能稳定、长期使用的翻墙软件，第一选择还是<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，方便、不用折腾。
 
