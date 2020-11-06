@@ -10,7 +10,7 @@
 >
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，在我使用和测试过的VPN产品中网络速度是最快的，也是我最喜欢的VPN产品。设备支持最全面，国内外口碑都很好，已经运营了12年（至2020年）。在安全性方面，也是行业顶级的“军事级别”的加密算法，保护用户的上网数据的安全。虽然它不能称得上100%完美（由于GFW的封锁，翻墙软件在国内不可能100%完美），但应对封锁的反应最快，在中国大陆苹果手机上使用能保障每年95%左右（我的使用体验）的全年可用率。如果遇到敏感时期，防火长城升级，针对中国大陆的优化服务器被屏蔽，中国用户也可以改为“L2TP – IPsec”协议，使用其它的服务器线路，你会发现很多节点依然可用，“L2TP–IPsec”协议的节点可以作为敏感时期的备用节点。在防火长城升级后的2-3个工作日后，ExpressVPN会推出更新版本，iPhone APP版本直接进入苹果商店一键更新即可；其他设备点击客户端下方的链接进入镜像官网（国内能访问），下载并更新客户端后就能恢复正常使用了。
 >
-> - <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN</a>，我已经使用了2年多，在苹果手机翻墙VPN产品中性价比最佳。总体来讲，最近一年的全年可用率基本能达到95%左右，支持WireGuard协议，但苹果手机APP里面选择WireGuard协议连接不如在设置里面快速，在iPhone的VPN设置里面可以实现秒连。VPN服务器经常会更新，每次登陆客户端也会自动检测服务器更新。在国内的Windows用户可以下载StrongVPN精简版，登录和连接更为顺畅。目前有优惠券TAKEOFF20可以使用。不过如果是使用梯子访问，由于反欺诈系统的检测有可能导致套餐不能购买，这样的情况需要先断开梯子，改电脑Host文件访问Strong官网域名，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问，本地网络访问StrongVPN官网方法见下文。
+> - <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN</a>，我已经使用了2年多，在苹果手机翻墙VPN产品中性价比最佳。支持WireGuard协议，但苹果手机APP里面选择WireGuard协议连接不如在设置里面快速，在iPhone的VPN设置里面可以实现快速连接。VPN服务器经常会更新，每次登陆客户端也会自动检测服务器更新。在国内的Windows、Mac和安卓手机用户可以找客服下载StrongVPN精简版V1 App，敏感时期在国内连接更为顺畅。目前有优惠券TAKEOFF20可以使用。不过如果是使用梯子访问，由于反欺诈系统的检测有可能导致套餐不能购买，这样的情况需要先断开梯子，改电脑Host文件访问Strong官网域名，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问，本地网络访问StrongVPN官网方法见下文。
 
 由于国内对于翻墙软件的封锁和iOS生态的封闭，使用苹果手机不能直接从中国区App Store上搜索下载VPN APP，安装外部安装包也不方便。当然解决方法有不少，而且在iPhone上不越狱也能翻墙。在2020年的今天各大国内网站早已将“翻墙”、“VPN”等设置为禁词，在百度或者知乎上你难以搜索到有价值的信息。
 
@@ -136,6 +136,10 @@ ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏�
 
 除了推荐的VPN线路，**中国用户也可以在客户端APP的设置中改为“L2TP – IPsec”协议，使用其它的服务器线路**，L2TP – IPsec的服务器一般没有经过针对中国网络优化，速度和稳定性可能会不如官方推荐的服务器线路，不过可连的节点比较多，可以作为敏感时期的备用节点。
 
+ExpressVPN官网提供了半自动配置脚本的方案，按照这个方案不用登录App Store就能使用ExpressVPN进行翻墙，方法如下。**但我建议还是自己在淘宝上买一个外区的Apple id长期使用，因为后续的更新会更加方便**。
+
+**半自动配置脚本**:在iPhone或是iPad用iOS系统自带的safari浏览器进入官网登录账号，接着点击My account->Set up ExpressVPN->iPhone,iPad，然后下载配置文件进行安装，然后进入系统设置Settings->VPN，进行连接，输入用户名和密码就可以使用了。
+
 …<a rel="nofollow noopener" href="https://www.fastvpncn.com/2020%e5%b9%b4expressvpn%e5%9c%a8%e5%9b%bd%e5%86%85%e4%bd%bf%e7%94%a8%e6%80%8e%e4%b9%88%e6%a0%b7%ef%bc%9f/" target="_blank">阅读ExpressVPN测评和使用提示</a>获取更多使用技巧和测试结果。
 
 ### <center><a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank"> 获取ExpressVPN优惠 >></a></center>
@@ -144,13 +148,41 @@ ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2020年10月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。
+>2020年11月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码“TAKEOFF20”可使用。
 
-StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
+StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。
 
-StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。
+### 如何打开StrongVPN官网？
 
-未完，待更新...
+有梯子的同学可直接进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但如果网页出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），需要使用本地网络访问官网，方法如下：
+
+**国内本地网络访问方法**：国内打开Strong官网需要改电脑Host文件，因为Strong官网在中国被墙，其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
+
+改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**，手机用户建议在电脑上打开本页面操作，因为手机由于系统版本原因改host操作较麻烦，下面是操作步骤：
+
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)。
+
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
+
+3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 点击获取StrongVPN优惠</a>。
+
+完成之后，就可以正常访问官网和使用客户端了。
+
+如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
+
+StrongVPN从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Zendesk chat”聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端V1 App一直很稳定**。
+
+这款VPN是我在19年初开始使用，在过去1年多的使用时间里，总的来说，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows用户可以下载StrongVPN精简版客户端V1 app，在中国登录和连接更为顺畅，Windows版的标准版客户端在国内的某些网络首次登录可能比较困难，精简版客户端V1 app版本在敏感时期时连接成功率也很稳定**。后文放上官网精简版的下载链接，也可以联系客服提供精简版客户端V1 app的下载地址。iPhone苹果手机APP版本的登录和使用直接使用App Store下载安装即可。
+
+**另外，和Windows系统一样，Mac和安卓用户也可以找客服获取精简版客户端V1 app，在敏感时期连接成功率很高，官网的标准版客户端遇到墙升级可能会存在连接问题，要等几日版本更新才能恢复正常使用**。
+
+如果安装或者连接遇到问题，可以在官网的右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN UDP/TCP`**，UDP和TCP哪个好用用那个。
+
+## 3.<a rel="nofollow noopener" href="http://linkv.org/panda/" target="_blank">PandaVPN</a>
+
+如果你在找在苹果手机上能稳定、长期使用的翻墙软件，第一选择还是<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，方便、不用折腾。
+
+PandaVPN是由华人中文团队开发，支持中文。其实不是严格意义上的VPN，底层协议可能是SS，安全性不如传统的VPN协议（比如IKEV和OpenVPN协议），不过在iPhone上使用也还行，运营时间不长，如果购买建议先选择一个月的套餐，长期表现如何还需观察。
 
 参考文章来源：
 
