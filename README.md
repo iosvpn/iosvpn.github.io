@@ -45,7 +45,20 @@ iPhone版本的PureVPN大部分时候无法连接，有时显示已连接，但�
 
 同PureVPN一样，因为iVacy和PureVPN是一家的，表现也差不了多少，我之前买的5年套餐，现在放着在吃灰。虽然价格便宜，但是不能使用再便宜也不能买，强烈不推荐。
 
-### 5.国产翻墙软件
+### 5.Astrill VPN
+
+Astrill VPN怎么样，在中国好用吗？之前有几个读者问我关于Astrill在国内使用的问题，**我不推荐使用Astrill VPN**！并不是不能翻墙的问题，实际上Astrill VPN目前在国内还是能用的，但是我自己亲自使用测试过之后，对Astrill VPN的安全性和隐私保护产生了怀疑，首先是DNS泄漏的问题，不管我在DNSLeak网站上测试还是使用Astrill VPN自带的DNS检测，都发生了DNS泄漏，导致用户的隐私遭到泄漏；其次，Astrill VPN会记录用户的VPN使用日志，这点是我无法接受的。其价格也是我所测试的翻墙软件中最贵的，即使一年费用每月也得$10美元，所以我试了一个月之后，不再续费Astrill了。
+
+DNSLeak测试Astrill VPN DNS泄漏：
+[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-dns-min.png)](#5-astrill-vpn)
+
+Astrill VPN自带的DNS检测测试Astrill VPN DNS，同样发生泄漏：
+[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-dns-leak-min.png)](#5-astrill-vpn)
+
+Astrill VPN记录用户日志：
+[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-vpn-log-min.png)](#5-astrill-vpn)
+
+### 6.国产翻墙软件
 
 国产翻墙软件基本上都是私人开设的，意味着你的网络数据掌握在私人手里，安全性很值得怀疑；甚至有不少钓鱼的，因为网上传出的翻墙被请喝茶的案例绝大部分是使用国产翻墙软件的，已经记录在案的就有老王VPN、极光加速器、佛跳墙加速器、IP精灵、蚂蚁加速器、QuickQ、旋风加速器、坚果加速器、快连VPN、神风加速器等。
 
@@ -109,6 +122,17 @@ ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏�
 - Canada - Toronto - 2
 - France - Strasbourg
 - Germany - Nuremberg
+
+近期使用中国移动的4G网络连接Singapore–Marina Bay进行测速，测速结果如图：
+
+连接界面：
+[![ExpressVPN iPhone速度测试](https://www.safewebcn.com/img/expressvpn-iphone-UI-in-China.png "ExpressVPN iPhone客户端")](#iphone使用提示)
+
+使用SpeedTest进行测速结果：
+
+[![ExpressVPN iPhone速度测试](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-11-06.png "ExpressVPN iPhone客户端")](#iphone使用提示)
+
+在苹果手机iPhone上使用移动4G网络连接Singapore–Marina Bay，测试的下行速度是29.71Mbps，在几乎所有的iPhone翻墙软件中，这个速度水平都算得上很不错的，当然实际的使用过程中，在观看油管高清视频也不会存在卡顿。
 
 除了推荐的VPN线路，**中国用户也可以在客户端APP的设置中改为“L2TP – IPsec”协议，使用其它的服务器线路**，L2TP – IPsec的服务器一般没有经过针对中国网络优化，速度和稳定性可能会不如官方推荐的服务器线路，不过可连的节点比较多，可以作为敏感时期的备用节点。
 
