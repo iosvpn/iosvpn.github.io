@@ -50,13 +50,13 @@ iPhone版本的PureVPN大部分时候无法连接，有时显示已连接，但�
 Astrill VPN怎么样，在中国好用吗？之前有几个读者问我关于Astrill在国内使用的问题，**我不推荐使用Astrill VPN**！并不是不能翻墙的问题，实际上Astrill VPN目前在国内还是能用的，但是我自己亲自使用测试过之后，对Astrill VPN的安全性和隐私保护产生了怀疑，首先是DNS泄漏的问题，不管我在DNSLeak网站上测试还是使用Astrill VPN自带的DNS检测，都发生了DNS泄漏，导致用户的隐私遭到泄漏；其次，Astrill VPN会记录用户的VPN使用日志，这点是我无法接受的。其价格也是我所测试的翻墙软件中最贵的，即使一年费用每月也得$10美元，所以我试了一个月之后，不再续费Astrill了。
 
 DNSLeak测试Astrill VPN DNS泄漏：
-[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-dns-min.png)](#5-astrill-vpn)
+[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-dns-min.png)](#5astrill-vpn)
 
 Astrill VPN自带的DNS检测测试Astrill VPN DNS，同样发生泄漏：
-[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-dns-leak-min.png)](#5-astrill-vpn)
+[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-dns-leak-min.png)](#5astrill-vpn)
 
 Astrill VPN记录用户日志：
-[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-vpn-log-min.png)](#5-astrill-vpn)
+[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-vpn-log-min.png)](#5astrill-vpn)
 
 ### 6.国产翻墙软件
 
