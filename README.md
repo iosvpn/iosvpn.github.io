@@ -189,6 +189,8 @@ StrongVPN从近2年开始也开始重视开发中国市场，售后服务也不�
 
 PandaVPN是由华人中文团队开发，支持中文。其实不是严格意义上的VPN，底层协议可能是SS，安全性不如传统的VPN协议（比如IKEV和OpenVPN协议），不过在iPhone上使用也还行，运营时间不长，如果购买建议先选择一个月的套餐，长期表现如何还需观察。
 
-参考文章来源：
+查看更多VPN选择攻略：
 
 [iPhone VPN推荐](https://www.fastvpncn.com/best-iphone-vpn-for-china/)
+
+[2020翻墙软件VPN推荐指南](https://github.com/vpncn/vpncn.github.io)
