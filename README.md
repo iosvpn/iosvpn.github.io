@@ -191,6 +191,6 @@ PandaVPN是由华人中文团队开发，支持中文。其实不是严格意义
 
 查看更多VPN选择攻略：
 
-[iPhone VPN推荐](https://www.fastvpncn.com/best-iphone-vpn-for-china/)
+<a rel="noopener" href="https://www.fastvpncn.com/best-iphone-vpn-for-china/" target="_blank">iPhone VPN推荐</a>
 
-[2020翻墙软件VPN推荐指南](https://github.com/vpncn/vpncn.github.io)
+<a rel="noopener" href="https://github.com/vpncn/vpncn.github.io" target="_blank">2020翻墙软件VPN推荐指南</a>
