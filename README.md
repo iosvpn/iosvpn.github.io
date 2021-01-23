@@ -1,4 +1,4 @@
-# iPhone与iOS VPN推荐，2020中国苹果手机翻墙软件避坑攻略
+# iPhone与iOS VPN推荐，2021中国苹果手机翻墙软件避坑攻略
 
 由于GFW墙的持续升级、一轮一轮封锁，以及iOS系统自身的封闭性，目前在iPhone或iPad上使用VPN非常不方便，我自己也用iPhone，我的经验是使用苹果手机fan qiang不如开放的安卓系统方便，连接所需时间和网络速度相对都差一些。而且随着防火长城的增高，适合在中国大陆苹果手机的翻墙软件已经没有几款了，比如前几年还不错的VyprVPN、NordVPN、PureVPN和iVacy，我都付费购买并在iPhone上安装了，但是最近2年越来越难用，NordVPN要连新出的线路，不过在iPhone APP里面经常连不上，不过可以选择手动设置翻墙，就是比较麻烦；VyprVPN、PureVPN和iVacy就不用说了，APP客户端直连大多数时候无法连接，即使更新了APP遇到新一轮封锁也坚持不了多久。**不知道为啥网上还有一些人说这些好用，我反正不推荐大家在iOS设备上使用上面这几款。**
 
@@ -9,7 +9,7 @@
 >
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，在iPhone上翻墙使用体验最好。也许你不是第一次听说它，在我使用和测试过的VPN产品中网络速度是最快的，也是我最喜欢的VPN产品，但在国内<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">访问ExpressVPN的官网</a>需要梯子，客户端能正常使用。设备支持最全面，国内外口碑都很好，已经运营了12年（至2020年）。在安全性方面，也是行业顶级的“军事级别”的加密算法，保护用户的上网数据的安全。虽然它不能称得上100%完美（由于GFW的封锁，翻墙软件在国内不可能100%完美），但应对封锁的反应最快，在中国大陆苹果手机上使用能保障每年95%左右（我的使用体验）的全年可用率。如果遇到敏感时期，防火长城升级，针对中国大陆的优化服务器被屏蔽，中国用户也可以改为“L2TP – IPsec”协议，使用其它的服务器线路，你会发现很多节点依然可用，“L2TP–IPsec”协议的节点可以作为敏感时期的备用节点。在防火长城升级后的2-3个工作日后，ExpressVPN会推出更新版本，iPhone APP版本直接进入苹果商店一键更新即可；其他设备点击客户端下方的链接进入镜像官网（国内能访问），下载并更新客户端后就能恢复正常使用了。
 >
-> - <a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN</a>，我已经使用了2年多，在苹果手机翻墙VPN产品中性价比不错，但长期使用的稳定性还是不如<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>稳。支持WireGuard协议，但苹果手机APP里面选择WireGuard协议连接不如在设置里面快速，在iPhone的VPN设置里面可以实现快速连接。VPN服务器经常会更新，每次登陆客户端也会自动检测服务器更新。在国内的Windows、Mac和安卓手机用户可以找客服下载StrongVPN精简版V1 App，敏感时期在国内连接更为顺畅。目前有优惠券TAKEOFF20可以使用。不过如果是使用梯子访问，由于反欺诈系统的检测有可能导致套餐不能购买，这样的情况需要先断开梯子，改电脑Host文件访问Strong官网域名，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问，本地网络访问StrongVPN官网方法见下文。
+> - StrongVPN(#2-strongvpn--性价比最佳)，我已经使用了2年多，在苹果手机翻墙VPN产品中性价比不错，但长期使用的稳定性还是不如<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>稳。VPN服务器经常会更新，每次登陆客户端也会自动检测服务器更新。在国内的Windows、Mac和安卓手机用户可以找客服下载StrongVPN精简版V1 App，敏感时期在国内连接更为顺畅。目前有优惠券TAKEOFF20可以使用。不过如果是使用梯子访问，由于反欺诈系统的检测有可能导致套餐不能购买，这样的情况需要先断开梯子，改电脑Host文件访问Strong官网域名，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问，本地网络访问StrongVPN官网方法见下文。
 
 由于国内对于翻墙软件的封锁和iOS生态的封闭，使用苹果手机不能直接从中国区App Store上搜索下载VPN APP，安装外部安装包也不方便。当然解决方法有不少，而且在iPhone上不越狱也能翻墙。在2020年的今天各大国内网站早已将“翻墙”、“VPN”等设置为禁词，在百度或者知乎上你难以搜索到有价值的信息。
 
@@ -75,7 +75,7 @@ Astrill VPN记录用户日志：
 
 ## 1.ExpressVPN – iPhone翻墙速度最快
 
->2020年12月使用，确认可用，速度体验在我测试使用的几款中表现最好。
+>2021年1月使用，确认可用，速度体验在我测试使用的几款中表现最好，iPhone用户首选。
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -131,7 +131,7 @@ ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏�
 
 使用SpeedTest进行测速结果：
 
-[![ExpressVPN iPhone速度测试](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-11-06.png "ExpressVPN iPhone客户端")](#iphone使用提示)
+[![ExpressVPN iPhone速度测试](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-1-23.png "ExpressVPN iPhone客户端")](#iphone使用提示)
 
 在苹果手机iPhone上使用移动4G网络连接Singapore–Marina Bay，测试的下行速度是29.71Mbps，在几乎所有的iPhone翻墙软件中，这个速度水平都算得上很不错的，当然实际的使用过程中，在观看油管高清视频也不会存在卡顿。
 
@@ -149,7 +149,7 @@ ExpressVPN官网提供了半自动配置脚本的方案，按照这个方案不�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2020年12月使用，确认可用，iOS的客户端直连还未恢复，其他平台的精简版客户端无影响，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码“TAKEOFF20”可使用。
+>2021年1月使用，确认可用，但iOS版本的App客户端直连还未恢复，需要联系客服进行手动设置，其他平台的精简版客户端无影响，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，有优惠码“TAKEOFF20”可使用。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。
 
