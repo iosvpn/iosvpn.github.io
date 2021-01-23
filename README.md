@@ -2,7 +2,7 @@
 
 由于GFW墙的持续升级、一轮一轮封锁，以及iOS系统自身的封闭性，目前在iPhone或iPad上使用VPN非常不方便，我自己也用iPhone，我的经验是使用苹果手机fan qiang不如开放的安卓系统方便，连接所需时间和网络速度相对都差一些。而且随着防火长城的增高，适合在中国大陆苹果手机的翻墙软件已经没有几款了，比如前几年还不错的VyprVPN、NordVPN、PureVPN和iVacy，我都付费购买并在iPhone上安装了，但是最近2年越来越难用，NordVPN要连新出的线路，不过在iPhone APP里面经常连不上，不过可以选择手动设置翻墙，就是比较麻烦；VyprVPN、PureVPN和iVacy就不用说了，APP客户端直连大多数时候无法连接，即使更新了APP遇到新一轮封锁也坚持不了多久。**不知道为啥网上还有一些人说这些好用，我反正不推荐大家在iOS设备上使用上面这几款。**
 
-关于翻墙软件VPN的详细版选择指南，可以查看<a rel="noopener" href="https://github.com/vpncn/vpncn.github.io" target="_blank">2021中国翻墙软件选择攻略</a>或者下载PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2021版翻墙VPN选择指南PDF版本</a>(右键另存)，有一些国内使用VPN的提示，随时查阅，以备不时之需。
+关于翻墙软件VPN的详细版选择指南，可以查看<a rel="noopener" href="https://github.com/vpncn/vpncn.github.io" target="_blank">2021中国翻墙软件选择攻略</a>或者下载PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2021版翻墙VPN选择指南PDF版本</a>(右键另存)，有一些适合国内长期使用的几款VPN推荐和使用VPN的提示，随时查阅，以备不时之需。
 
 [![iPhone 翻墙VPN推荐](https://www.safewebcn.com/img/iphone-vpn-min.png "iPhone梯子")](#iphone%E4%B8%8Eios-vpn%E6%8E%A8%E8%8D%902020%E4%B8%AD%E5%9B%BD%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E9%81%BF%E5%9D%91%E6%94%BB%E7%95%A5)
 
