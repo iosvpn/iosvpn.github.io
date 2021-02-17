@@ -79,7 +79,7 @@ Astrill VPN记录用户日志：
 
 >2021年1月使用，确认可用，速度体验在我测试使用的几款中表现最好，iPhone用户首选。
 
-[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
+[![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
 ExpressVPN开始运营于2009年，属于英属维尔京群岛的一家公司，也是全球最大规模的VPN服务商。目前在我所使用和测试过的翻墙VPN中，ExpressVPN在中国大陆网络速度最快，因为和其他VPN品牌使用传统的硬盘服务器不同，ExpressVPN的服务器没有传统硬盘，流量直接在内存进行传输，比传统的硬盘服务器的数据传输速度快得多，而且内存是即时传输，不保留数据，对用户隐私信息的保护也更加安全。技术能力（防被封）出色且能快速应对防火长城的封锁，是最好用的iPhone翻墙VPN软件。因为硬件有较高的成本，使得价格相对较高一些，一分价钱一分货，适合要求较好速度体验的朋友。
 
@@ -89,7 +89,7 @@ ExpressVPN开始运营于2009年，属于英属维尔京群岛的一家公司，
 
 通过上面的优惠链接，进入官方的活动页面，额外获得1个季度的使用时间，在购买ExpressVPN后，你的注册邮箱会收到激活链接，打开链接重置密码即可。
 
-[![ExpressVPN](https://www.fastvpncn.com/wp-content/uploads/2020/10/iphone-expressvpn-homepage.png)](https://www.fastvpncn.com/expressvpn)
+[![ExpressVPN](https://www.safewebcn.com/img/express-website-iphone-min.png)](https://www.fastvpncn.com/expressvpn)
 
 **续费年套餐如何获得3个月优惠？**
 
@@ -107,7 +107,7 @@ ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏�
 
 推荐使用外区的App Store一键安装和更新，以后更新客户端APP也方便。方法之前说过了，去淘宝购买国外Apple ID，几块钱一个，长期使用。
 
-[![ExpressVPN iPhone](https://www.fastvpncn.com/wp-content/uploads/2020/03/express-vpn-iOS-LA4-speed-test.png "ExpressVPN iPhone客户端")](#)
+[![ExpressVPN iPhone](https://www.safewebcn.com/img/expressvpn-iphone-la5-min.png "ExpressVPN iPhone客户端")](#)
 
 有一点提示，首次在ExpressVPN App登录的时候，需要输入激活码，在后台一眼就能找到激活码（Activation Code）。
 
@@ -129,11 +129,11 @@ ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏�
 
 连接界面：
 
-[![ExpressVPN iPhone速度测试](https://www.safewebcn.com/img/expressvpn-iphone-UI-in-China.png "ExpressVPN iPhone客户端")](#iphone使用提示)
+[![ExpressVPN iPhone速度测试](https://www.safewebcn.com/img/expressvpn-iphone-MarinaBay-min.png "ExpressVPN iPhone客户端")](#iphone使用提示)
 
 使用SpeedTest进行测速结果：
 
-[![ExpressVPN iPhone速度测试](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-1-23.png "ExpressVPN iPhone客户端")](#iphone使用提示)
+[![ExpressVPN iPhone速度测试](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2-16-min.png "ExpressVPN iPhone客户端")](#iphone使用提示)
 
 在苹果手机iPhone上使用移动4G网络连接Singapore–Marina Bay，测试的下行速度是29.71Mbps，在几乎所有的iPhone翻墙软件中，这个速度水平都算得上很不错的，当然实际的使用过程中，在观看油管高清视频也不会存在卡顿。
 
