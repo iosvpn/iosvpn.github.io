@@ -99,7 +99,7 @@ ExpressVPN开始运营于2009年，属于英属维尔京群岛的一家公司，
 
 ExpressVPN的服务器分布广泛，在全球94个国家和地区都有VPN服务器，对流量和带宽没有任何限制，能满足经常看视频和下载的用户的需求。ExpressVPN的客户端支持各种常见设备，并且可以配置在路由器上，在电脑（Windows、Mac和Linux）和移动设备（iPhone、iPad、安卓）上都可以安装客户端APP一键连接，支持最多5台设备同时连接使用。
 
-[![ExpressVPN支持设备](https://www.safewebcn.com/img/express-vpn-devices.png "ExpressVPN支持设备截图")](#)
+[![ExpressVPN支持设备](https://www.safewebcn.com/img/express-vpn-devices.png "ExpressVPN支持设备截图")](https://www.fastvpncn.com/expressvpn)
 
 ### iPhone和iOS设备下载安装ExpressVPN
 
@@ -107,7 +107,7 @@ ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏�
 
 推荐使用外区的App Store一键安装和更新，以后更新客户端APP也方便。方法之前说过了，去淘宝购买国外Apple ID，几块钱一个，长期使用。
 
-[![ExpressVPN iPhone](https://www.safewebcn.com/img/expressvpn-iphone-la5-min.png "ExpressVPN iPhone客户端")](#)
+[![ExpressVPN iPhone](https://www.safewebcn.com/img/expressvpn-iphone-la5-min.png "ExpressVPN iPhone客户端")](#iphone和ios设备下载安装expressvpn)
 
 有一点提示，首次在ExpressVPN App登录的时候，需要输入激活码，在后台一眼就能找到激活码（Activation Code）。
 
