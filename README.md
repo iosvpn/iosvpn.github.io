@@ -77,7 +77,7 @@ Astrill VPN记录用户日志：
 
 ## 1.ExpressVPN – iPhone翻墙速度最快
 
->2021年1月使用，确认可用，速度体验在我测试使用的几款中表现最好，iPhone用户首选。
+>2021年3月使用，确认可用，速度体验在我测试使用的几款中表现最好，iPhone用户首选。
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -151,7 +151,7 @@ ExpressVPN官网提供了半自动配置脚本的方案，按照这个方案不�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2021年1月使用，确认可用，但iOS版本的App客户端直连还未恢复，需要联系客服进行手动设置，其他平台的精简版客户端无影响，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，有优惠码“TAKEOFF20”可使用。
+>2021年3月使用，确认可用，但iOS版本的App客户端直连还未恢复，需要联系客服进行手动设置，其他平台的精简版客户端无影响，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，有优惠码“TAKEOFF20”可使用。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。
 
