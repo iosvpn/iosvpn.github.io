@@ -176,6 +176,8 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
+### 如何使用StrongVPN
+
 StrongVPN从近3年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>页面点击右上角Help，查找“在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），以前几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端V1 App一直很稳定**。
 
 这款VPN是我在19年初开始使用，在过去3年多的使用时间里，总的来说，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和安卓用户可以在官网右下角的在线聊天框（或者用户后台发Tickets给客服）找客服要StrongVPN特供的精简版客户端V1 app**，直接说在中国使用，客服会帮你设置账户并给你最新的下载链接，这也是官方为了尽量避免被墙做的备用方案，精简版客户端在中国登录和连接更为顺畅，官方的标准版客户端过程中可能会出现登录和连接问题，要等版本更新。iPhone苹果手机APP版本的登录和使用直接使用App Store下载安装即可，但在敏感时期不一定能连上，要等版本更新，如果无法连接，可以找客服获取备用的服务器地址和手动连接方法，不过**如果只是在iPhone使用VPN，强烈建议选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，它在iPhone的长期稳定性比其他VPN产品要好太多**。
