@@ -4,7 +4,7 @@
 
 >大家选择VPN的时候，**最好选创立时间超过3年以上的大牌VPN**，因为最近几年新出道的VPN要么因为名气不大没市场、要么坑一笔钱就跑，跑路的特别多，退钱就别想了。特别是国产的翻墙软件，不仅安全性没法保证，由于行业的混乱和政策风险，趁着大封锁的时候跑路，之后换马甲再开张，成本和风险都更小。至于国外的大牌VPN，主要用户在国外，都比较看重品牌，合法且有利润支撑，至少不会跑路，至于能不能在国内使用，还要仔细测试和辨别，别小看了墙的能力。
 
-关于翻墙软件VPN的详细版选择指南，可以查看<a rel="noopener" href="https://github.com/vpncn/vpncn.github.io" target="_blank">2022中国安全翻墙VPN选择攻略</a>或者下载PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2022版安全翻墙VPN选择指南PDF版本</a>，有一些适合国内长期使用的几款VPN推荐和使用VPN的提示，随时查阅，以备不时之需。
+关于翻墙软件VPN的详细版选择指南，可以查看<a rel="noopener" href="https://github.com/vpncn/vpncn.github.io" target="_blank">2022中国安全翻墙VPN选择攻略</a>，有一些适合国内长期使用的几款VPN推荐和使用VPN的提示。
 
 [![iPhone 翻墙VPN推荐](https://www.safewebcn.com/img/iphone-vpn-min.png "iPhone梯子")](#iphone%E4%B8%8Eios-vpn%E6%8E%A8%E8%8D%902020%E4%B8%AD%E5%9B%BD%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E9%81%BF%E5%9D%91%E6%94%BB%E7%95%A5)
 
