@@ -154,7 +154,7 @@ ExpressVPN官网提供了半自动配置脚本的方案，按照这个方案不�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2022年确认可用，但iOS版本的App客户端直连还未恢复，需要联系客服进行手动设置，**其他平台的精简版客户端无影响，可用节点较多**，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，支持支付宝Alipay付款，但是官网套餐页面直接提交到支付宝购买可能出现参数错误，需要在提交注册后到邮箱查看账号和密码，登录官网会员后台进行支付，详情可参考：<a rel="nofollow noopener" href="https://vpncn.github.io/#%E6%94%AF%E4%BB%98%E5%AE%9D%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0strongvpn" target="_blank">如何购买StrongVPN</a>。
+>2022年确认可用，但iOS版本的App客户端直连还未恢复，需要联系客服进行手动设置，**其他平台的精简版客户端无影响，可用节点较多**，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，支持支付宝Alipay付款，但是官网套餐页面直接提交到支付宝购买可能出现参数错误，需要在提交注册后到邮箱查看账号和密码，登录官网会员后台进行支付，详情可参考：<a rel="noopener" href="https://vpncn.github.io/#%E6%94%AF%E4%BB%98%E5%AE%9D%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0strongvpn" target="_blank">如何购买和使用StrongVPN</a>。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。
 
