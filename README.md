@@ -1,6 +1,6 @@
 # 2022苹果手机iPhone VPN推荐，中国翻墙软件VPN避坑
 
-由于GFW墙的持续升级、一轮一轮封锁，以及iOS系统自身的封闭性，VPN协议不能广泛支持，目前在iPhone或iPad上使用VPN非常不方便，我自己也用iPhone，我的经验是使用苹果手机fan qiang不如开放的安卓系统方便，连接所需时间和网络速度相对都差一些。而且随着防火长城的增高，适合在中国大陆苹果手机的翻墙软件已经没有几款了，比如前几年还不错的VyprVPN、NordVPN、PureVPN和iVacy，我都付费购买并在iPhone上安装了，但是最近2年越来越难用，NordVPN要连新出的线路，不过在iPhone APP里面经常连不上，不过可以选择手动设置翻墙，就是比较麻烦；VyprVPN、PureVPN和iVacy就不用说了，APP客户端直连大多数时候无法连接，即使更新了APP遇到新一轮封锁也坚持不了多久。**不知道为啥网上还有一些人说这些好用，我反正不推荐大家在iOS设备上使用上面这几款。**
+由于GFW墙的持续升级、一轮一轮封锁，以及iOS系统自身的封闭性，VPN协议不能广泛支持，目前在iPhone或iPad上使用VPN非常不方便，我自己也用iPhone，我的经验是使用苹果手机fan qiang不如开放的安卓系统方便，连接所需时间和网络速度相对都差一些。而且随着防火长城的增高，**适合在中国大陆苹果手机的正规VPN已经没有几款了**，比如前几年还不错的VyprVPN、NordVPN、PureVPN和iVacy，我都付费购买并在iPhone上安装了，但是最近2年越来越难用，NordVPN要连新出的线路，不过在iPhone APP里面经常连不上，不过可以选择手动设置翻墙，就是比较麻烦；VyprVPN、PureVPN和iVacy就不用说了，APP客户端直连大多数时候无法连接，即使更新了APP遇到新一轮封锁也坚持不了多久。**不知道为啥网上还有一些人说这些好用，我反正不推荐大家在iOS设备上使用上面这几款。**
 
 >大家选择VPN的时候，**最好选创立时间超过3年以上的大牌VPN**，因为最近几年新出道的VPN要么因为名气不大没市场、要么坑一笔钱就跑，跑路的特别多，退钱就别想了。特别是国产的翻墙软件，不仅安全性没法保证，由于行业的混乱和政策风险，趁着大封锁的时候跑路，之后换马甲再开张，成本和风险都更小。至于国外的大牌VPN，主要用户在国外，都比较看重品牌，合法且有利润支撑，至少不会跑路，至于能不能在国内使用，还要仔细测试和辨别，别小看了墙的能力。
 
@@ -80,7 +80,7 @@ Astrill VPN记录用户日志：
 
 ## 1.ExpressVPN – iPhone翻墙速度最快
 
->2022年1月使用，确认可用，速度体验在我测试使用的几款中表现最好，iPhone用户首选。
+>2022年2月使用，确认可用，速度体验在我测试使用的几款中表现最好，iPhone用户首选。
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -154,7 +154,7 @@ ExpressVPN官网提供了半自动配置脚本的方案，按照这个方案不�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2022年确认可用，但iOS版本的App客户端直连还未恢复，需要联系客服进行手动设置，**其他平台的精简版客户端无影响，可用节点较多**，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，有优惠码“TAKEOFF20”可使用。
+>2022年确认可用，但iOS版本的App客户端直连还未恢复，需要联系客服进行手动设置，**其他平台的精简版客户端无影响，可用节点较多**，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，支持支付宝Alipay付款，但是官网套餐页面直接提交到支付宝购买可能出现参数错误，需要在提交注册后到邮箱查看账号和密码，登录官网会员后台进行支付，详情可参考：<a rel="nofollow noopener" href="https://vpncn.github.io/#%E6%94%AF%E4%BB%98%E5%AE%9D%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0strongvpn" target="_blank">如何购买StrongVPN</a>。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。
 
@@ -173,8 +173,6 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 点击获取StrongVPN优惠</a>。
 
 完成之后，就可以正常访问官网了。
-
-如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
 ### 如何使用StrongVPN
 
