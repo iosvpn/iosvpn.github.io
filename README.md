@@ -106,9 +106,9 @@ ExpressVPN的服务器分布广泛，在全球94个国家和地区都有VPN服�
 
 ### iPhone和iOS设备下载安装ExpressVPN
 
-ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏览器Safari登录后台，选择“iPhone,iPad”选项，点击下载安装包，按照要求操作即可，在安装过程中可能出现提示信息，需要手动确认，根据提示点击下一步。安装完成之后，还要确认授权VPN信任。
+ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏览器Safari登录后台，选择“iPhone,iPad”选项，点击下载安装包，按照要求操作即可，在安装过程中可能出现提示信息，需要手动确认，根据提示点击下一步。安装完成之后，还要确认授权VPN信任。不过这个操作对于新手稍显麻烦，不一定能完美设置好。
 
-推荐使用外区的App Store一键安装和更新，以后更新客户端APP也方便。方法之前说过了，去淘宝购买国外Apple ID，几块钱一个，长期使用。
+**推荐使用外区的App Store一键安装和更新**，以后更新客户端APP也方便。可以去淘宝购买国外Apple ID，搜“美国id”这些字眼，几块钱一个，进店问，这种独立账号能长期使用。
 
 [![ExpressVPN iPhone](https://www.safewebcn.com/img/expressvpn-iphone-la5-min.png "ExpressVPN iPhone客户端")](#iphone和ios设备下载安装expressvpn)
 
@@ -121,12 +121,12 @@ ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏�
 - Japan - Yokohama
 - Singapore–Marina Bay
 - USA–Los Angeles–5
-- USA–Los Angeles–4
 - USA–Santa Monica
 - France - Alsace
 - Canada - Toronto - 2
 - UK - Wembley
 - France - Strasbourg
+...
 
 近期使用中国移动的4G网络连接Singapore–Marina Bay进行测速，测速结果如图：
 
