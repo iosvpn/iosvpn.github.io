@@ -1,4 +1,4 @@
-# 2022苹果手机iPhone VPN推荐，中国翻墙软件VPN避坑
+# 苹果手机iPhone VPN推荐，中国翻墙软件VPN避坑
 
 由于GFW墙的持续升级、一轮一轮封锁，以及iOS系统自身的封闭性，VPN协议不能广泛支持，目前在iPhone或iPad上使用VPN非常不方便，我自己也用iPhone，我的经验是使用苹果手机fan qiang不如开放的安卓系统方便，连接所需时间和网络速度相对都差一些。而且随着防火长城的增高，**适合在中国大陆苹果手机的正规VPN已经没有几款了**，比如前几年还不错的VyprVPN、NordVPN、PureVPN和iVacy，我都付费购买并在iPhone上安装了，但是最近2年越来越难用，NordVPN要连新出的线路，不过在iPhone APP里面经常连不上，不过可以选择手动设置翻墙，就是比较麻烦；VyprVPN、PureVPN和iVacy就不用说了，APP客户端直连大多数时候无法连接，即使更新了APP遇到新一轮封锁也坚持不了多久。**不知道为啥网上还有一些人说这些好用，我反正不推荐大家在iOS设备上使用上面这几款。**
 
@@ -11,7 +11,7 @@
 **如果你想直接选择一款VPN能顺利翻墙，我建议你参考以下两款：**
 
 >
-> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，在iPhone上翻墙使用体验最好，但访问官网需梯子。也许你不是第一次听说它，在我使用和测试过的VPN产品中网络速度是最快的，也是我最喜欢的VPN产品，但在国内<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">访问ExpressVPN的官网</a>需要梯子，客户端能正常使用。设备支持最全面，国内外口碑都很好，已经运营了14年（至2022年）。在安全性方面，也是行业顶级的“军事级别”的加密算法，保护用户的上网数据的安全。虽然它不能称得上100%完美（由于GFW的封锁，翻墙软件在国内不可能100%完美），但应对封锁的反应最快，在中国大陆苹果手机上使用能保障每年95%左右（我的使用体验）的全年可用率。如果遇到敏感时期，防火长城升级，针对中国大陆的优化服务器被屏蔽，中国用户也可以改为“L2TP – IPsec”或“IKEV-2”协议，使用除推荐节点之外的其它服务器线路，你会发现很多节点依然可用，“IKEV-2”和“L2TP–IPsec”协议的节点可以作为敏感时期的备用节点。**在防火长城升级后的2-3个工作日后，ExpressVPN会陆续推出更新版本，iPhone APP版本直接进入苹果商店一键更新即可；其他设备点击客户端下方的链接进入镜像官网（国内能访问），下载并更新客户端后就能恢复正常使用了**。
+> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，在iPhone上翻墙使用体验最好，但访问官网需梯子。也许你不是第一次听说它，在我使用和测试过的VPN产品中网络速度是最快的，也是我最喜欢的VPN产品，但在国内<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">访问ExpressVPN的官网</a>需要梯子，客户端能正常使用。设备支持最全面，国内外口碑都很好，已经运营了16年。在安全性方面，也是行业顶级的“军事级别”的加密算法，保护用户的上网数据的安全。虽然它不能称得上100%完美（由于GFW的封锁，翻墙软件在国内不可能100%完美），但应对封锁的反应最快，在中国大陆苹果手机上使用能保障每年95%左右（我的使用体验）的全年可用率。如果遇到敏感时期，防火长城升级，针对中国大陆的优化服务器被屏蔽，中国用户也可以改为“L2TP – IPsec”或“IKEV-2”协议，使用除推荐节点之外的其它服务器线路，你会发现很多节点依然可用，“IKEV-2”和“L2TP–IPsec”协议的节点可以作为敏感时期的备用节点。**在防火长城升级后的2-3个工作日后，ExpressVPN会陆续推出更新版本，iPhone APP版本直接进入苹果商店一键更新即可；其他设备点击客户端下方的链接进入镜像官网（国内能访问），下载并更新客户端后就能恢复正常使用了**。
 >
 > - [StrongVPN](#2-strongvpn--性价比最佳)，创立于2005年的老牌VPN，属于美国数字科技巨头Ziff Davis(之前叫J2 Global)旗下的产品，我已经使用了2年多，官方的精简版客户端在Windows、Mac和安卓手机使用体验不错，长期的可连接率很高，速度也还行，在翻墙VPN产品中性价比不错，但在iOS系统中长期使用的稳定性还是不如<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>稳。VPN服务器经常会更新，每次登陆客户端也会自动检测服务器更新。**建议在国内的Windows、Mac和安卓手机用户找客服下载StrongVPN特供的精简版V1 App（直接说在中国使用客服就会给你并帮你设置账户），相比官方的标准版客户端，精简版客户端在国内连接更为顺畅**。目前有优惠券可以使用。不过如果是使用梯子访问，由于反欺诈系统的检测有可能导致套餐不能购买，这样的情况需要先断开梯子，改电脑Host文件访问Strong官网域名，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问，[国内网络访问StrongVPN官网方法](#如何打开strongvpn官网)见下文。
 
@@ -80,11 +80,11 @@ Astrill VPN记录用户日志：
 
 ## 1.ExpressVPN – iPhone翻墙速度最快
 
->2022年2月使用，确认可用，速度体验在我测试使用的几款中表现最好，iPhone用户首选。
+>确认可用，速度体验在我测试使用的几款中表现最好，iPhone用户首选。
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
-ExpressVPN开始运营于2009年，属于英属维尔京群岛的一家公司，也是全球最大规模的VPN服务商。目前在我所使用和测试过的翻墙VPN中，ExpressVPN在中国大陆网络速度最快，因为和其他VPN品牌使用传统的硬盘服务器不同，ExpressVPN的服务器没有传统硬盘，流量直接在内存进行传输，比传统的硬盘服务器的数据传输速度快得多，而且内存是即时传输，不保留数据，对用户隐私信息的保护也更加安全。技术能力（防被封）出色且能快速应对防火长城的封锁，是最好用的iPhone翻墙VPN软件。因为硬件有较高的成本，使得价格相对较高一些，一分价钱一分货，适合要求较好速度体验的朋友。
+ExpressVPN开始运营于2008年，属于英属维尔京群岛的一家公司，也是全球最大规模的VPN服务商。目前在我所使用和测试过的翻墙VPN中，ExpressVPN在中国大陆网络速度最快，因为和其他VPN品牌使用传统的硬盘服务器不同，ExpressVPN的服务器没有传统硬盘，流量直接在内存进行传输，比传统的硬盘服务器的数据传输速度快得多，而且内存是即时传输，不保留数据，对用户隐私信息的保护也更加安全。技术能力（防被封）出色且能快速应对防火长城的封锁，是最好用的iPhone翻墙VPN软件。因为硬件有较高的成本，使得价格相对较高一些，一分价钱一分货，适合要求较好速度体验的朋友。
 
 由于在中国用户众多，ExpressVPN售后服务还不错，应对防火长城的封锁反应很快，一般服务器IP被封2-3个工作日内就可以通过更新客户端解决推荐线路不能连接的问题，在封锁期使用L2TP–IPSec或IKEV-2协议连接其他服务器也能使用，长期可用率能保持在95%左右，在中国使用能达到这样的翻墙软件真没几个能做到。
 
@@ -154,7 +154,7 @@ ExpressVPN官网提供了半自动配置脚本的方案，按照这个方案不�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2022年确认可用，但iOS版本的App客户端直连还未恢复，需要联系客服进行手动设置，**其他平台的精简版客户端无影响，可用节点较多**，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，支持支付宝Alipay付款，但是官网套餐页面直接提交到支付宝购买可能出现参数错误，需要在提交注册后到邮箱查看账号和密码，登录官网会员后台进行支付，详情可参考：<a rel="noopener" href="https://vpncn.github.io/#%E6%94%AF%E4%BB%98%E5%AE%9D%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0strongvpn" target="_blank">如何购买和使用StrongVPN</a>。
+>确认可用，但iOS版本的App客户端直连还未恢复，需要联系客服进行手动设置，**其他平台的精简版客户端无影响，可用节点较多**，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，支持支付宝Alipay付款，但是官网套餐页面直接提交到支付宝购买可能出现参数错误，需要在提交注册后到邮箱查看账号和密码，登录官网会员后台进行支付，详情可参考：<a rel="noopener" href="https://vpncn.github.io/#%E6%94%AF%E4%BB%98%E5%AE%9D%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0strongvpn" target="_blank">如何购买和使用StrongVPN</a>。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。
 
@@ -178,7 +178,7 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 StrongVPN从近3年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>页面点击右上角Help，查找“在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），以前几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端V1 App一直很稳定**。
 
-这款VPN是我在19年初开始使用，在过去3年多的使用时间里，总的来说，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和安卓用户可以在官网右下角的在线聊天框（或者用户后台发Tickets给客服）找客服要StrongVPN特供的精简版客户端V1 app**，直接说在中国使用，客服会帮你设置账户并给你最新的下载链接，这也是官方为了尽量避免被墙做的备用方案，精简版客户端在中国登录和连接更为顺畅，官方的标准版客户端过程中可能会出现登录和连接问题，要等版本更新。iPhone苹果手机APP版本的登录和使用直接使用App Store下载安装即可，但在敏感时期不一定能连上，要等版本更新，如果无法连接，可以找客服获取备用的服务器地址和手动连接方法，不过**如果只是在iPhone使用VPN，强烈建议选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，它在iPhone的长期稳定性比其他VPN产品要好太多**。
+这款VPN是我在19年初开始使用，在过去几年的使用时间里，总的来说，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和安卓用户可以在官网右下角的在线聊天框（或者用户后台发Tickets给客服）找客服要StrongVPN特供的精简版客户端V1 app**，直接说在中国使用，客服会帮你设置账户并给你最新的下载链接，这也是官方为了尽量避免被墙做的备用方案，精简版客户端在中国登录和连接更为顺畅，官方的标准版客户端过程中可能会出现登录和连接问题，要等版本更新。iPhone苹果手机APP版本的登录和使用直接使用App Store下载安装即可，但在敏感时期不一定能连上，要等版本更新，如果无法连接，可以找客服获取备用的服务器地址和手动连接方法，不过**如果只是在iPhone使用VPN，强烈建议选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，它在iPhone的长期稳定性比其他VPN产品要好太多**。
 
 如果安装或者连接遇到问题，可以在官网的右下角的“Help”聊天框->Get in touch->Live chat，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN UDP/TCP`**，UDP和TCP哪个好用用那个，建议TCP，我使用时感觉TCP相比UDP更容易连上一些。
 
@@ -188,4 +188,4 @@ StrongVPN从近3年开始也开始重视开发中国市场，售后服务也不�
 
 <a rel="noopener" href="https://www.fastvpncn.com/best-iphone-vpn-for-china/" target="_blank">iPhone VPN推荐</a>
 
-<a rel="noopener" href="https://vpncn.github.io" target="_blank">2022翻墙软件VPN推荐指南</a>
+<a rel="noopener" href="https://vpncn.github.io" target="_blank">翻墙软件VPN推荐指南</a>
