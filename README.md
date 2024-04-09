@@ -4,7 +4,7 @@
 
 >大家选择VPN的时候，**最好选创立时间超过3年以上的大牌VPN**，因为最近几年新出道的VPN要么因为名气不大没市场、要么坑一笔钱就跑，跑路的特别多，退钱就别想了。特别是国产的翻墙软件，不仅安全性没法保证，由于行业的混乱和政策风险，趁着大封锁的时候跑路，之后换马甲再开张，成本和风险都更小。至于国外的大牌VPN，主要用户在国外，都比较看重品牌，合法且有利润支撑，至少不会跑路，至于能不能在国内使用，还要仔细测试和辨别，别小看了墙的能力。
 
-![iPhone 翻墙VPN推荐](https://www.safewebcn.com/img/iphone-vpn-min.png "iPhone梯子")
+![iPhone 翻墙VPN推荐](https://linkv.org/img/iphone-vpn-min.png "iPhone梯子")
 
 **如果你想直接选择一款VPN能顺利翻墙，我建议你参考以下两款：**
 
@@ -16,7 +16,7 @@
 
 ## iPhone翻墙现状
 
-随着GFW近些年持续地封锁，在中国iPhone手机能稳定使用的<a rel="noopener" href="https://github.com/vpnforchina/vpnforchina.github.io" target="_blank">翻墙软件</a>已经不多了，网上的信息也是鱼龙混杂，另读者辨不清真假，不少用户被坑过不止一次，很多翻墙软件真的最好别去试，比如下个章节我提到的那些。
+随着GFW近些年持续地封锁，在中国iPhone手机能稳定使用的翻墙软件已经不多了，网上的信息也是鱼龙混杂，另读者辨不清真假，不少用户被坑过不止一次，很多翻墙软件真的最好别去试，比如下个章节我提到的那些。
 
 由于国内对于翻墙软件的封锁和iOS生态的封闭，使用苹果手机不能直接从中国区App Store上搜索下载VPN APP，安装外部安装包也不方便。当然解决方法有不少，而且在iPhone上不越狱也能翻墙。在2020年的今天各大国内网站早已将“翻墙”、“VPN”等设置为禁词，在百度或者知乎上你难以搜索到有价值的信息。
 
@@ -53,13 +53,13 @@ iPhone版本的PureVPN大部分时候无法连接，有时显示已连接，但�
 Astrill VPN怎么样，在中国好用吗？之前有几个读者问我关于Astrill在国内使用的问题，**我不推荐使用Astrill VPN**！并不是不能翻墙的问题，实际上Astrill VPN目前在国内还是能用的，但是我自己亲自使用测试过之后，对Astrill VPN的安全性和隐私保护产生了怀疑，首先是DNS泄漏的问题，不管我在DNSLeak网站上测试还是使用Astrill VPN自带的DNS检测，都发生了DNS泄漏，导致用户的隐私遭到泄漏；其次，Astrill VPN会记录用户的VPN使用日志，这点是我无法接受的。其价格也是我所测试的翻墙软件中最贵的，即使一年费用每月也得$10美元，所以我试了一个月之后，不再续费Astrill了。
 
 DNSLeak测试Astrill VPN DNS泄漏：
-[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-dns-min.png)](#5astrill-vpn)
+[![Astrill VPN DNS 泄漏](https://linkv.org/img/astrill-dns-min.png)](#5astrill-vpn)
 
 Astrill VPN自带的DNS检测测试Astrill VPN DNS，同样发生泄漏：
-[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-dns-leak-min.png)](#5astrill-vpn)
+[![Astrill VPN DNS 泄漏](https://linkv.org/img/astrill-dns-leak-min.png)](#5astrill-vpn)
 
 Astrill VPN记录用户日志：
-[![Astrill VPN DNS 泄漏](https://www.safewebcn.com/img/astrill-vpn-log-min.png)](#5astrill-vpn)
+[![Astrill VPN DNS 泄漏](https://linkv.org/img/astrill-vpn-log-min.png)](#5astrill-vpn)
 
 ### 6.国产翻墙软件
 
@@ -80,7 +80,7 @@ Astrill VPN记录用户日志：
 
 >确认可用，速度体验在我测试使用的几款中表现最好，iPhone用户首选。
 
-[![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
+[![ExpressVPN](https://linkv.org/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
 ExpressVPN开始运营于2008年，属于英属维尔京群岛的一家公司，也是全球最大规模的VPN服务商。目前在我所使用和测试过的翻墙VPN中，ExpressVPN在中国大陆网络速度最快，因为和其他VPN品牌使用传统的硬盘服务器不同，ExpressVPN的服务器没有传统硬盘，流量直接在内存进行传输，比传统的硬盘服务器的数据传输速度快得多，而且内存是即时传输，不保留数据，对用户隐私信息的保护也更加安全。技术能力（防被封）出色且能快速应对防火长城的封锁，是最好用的iPhone翻墙VPN软件。因为硬件有较高的成本，使得价格相对较高一些，一分价钱一分货，适合要求较好速度体验的朋友。
 
@@ -90,7 +90,7 @@ ExpressVPN开始运营于2008年，属于英属维尔京群岛的一家公司，
 
 通过上面的优惠链接，进入官方的活动页面，额外获得1个季度的使用时间，在购买ExpressVPN后，你的注册邮箱会收到激活链接，打开链接重置密码即可。
 
-[![ExpressVPN](https://www.safewebcn.com/img/express-website-iphone-min.png)](https://www.fastvpncn.com/expressvpn)
+[![ExpressVPN](https://linkv.org/img/express-website-iphone-min.png)](https://www.fastvpncn.com/expressvpn)
 
 **续费年套餐如何获得3个月优惠？**
 
@@ -100,7 +100,7 @@ ExpressVPN开始运营于2008年，属于英属维尔京群岛的一家公司，
 
 ExpressVPN的服务器分布广泛，在全球94个国家和地区都有VPN服务器，对流量和带宽没有任何限制，能满足经常看视频和下载的用户的需求。ExpressVPN的客户端支持各种常见设备，并且可以配置在路由器上，在电脑（Windows、Mac和Linux）和移动设备（iPhone、iPad、安卓）上都可以安装客户端APP一键连接，支持最多5台设备同时连接使用。
 
-[![ExpressVPN支持设备](https://www.safewebcn.com/img/express-vpn-devices.png "ExpressVPN支持设备截图")](https://www.fastvpncn.com/expressvpn)
+[![ExpressVPN支持设备](https://linkv.org/img/express-vpn-devices.png "ExpressVPN支持设备截图")](https://www.fastvpncn.com/expressvpn)
 
 ### iPhone和iOS设备下载安装ExpressVPN
 
@@ -108,7 +108,7 @@ ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏�
 
 **推荐使用外区的App Store一键安装和更新**，以后更新客户端APP也方便。可以去淘宝购买国外Apple ID，搜“美国id”这些字眼，几块钱一个，进店问，这种独立账号能长期使用。
 
-[![ExpressVPN iPhone](https://www.safewebcn.com/img/expressvpn-iphone-la5-min.png "ExpressVPN iPhone客户端")](#iphone和ios设备下载安装expressvpn)
+[![ExpressVPN iPhone](https://linkv.org/img/expressvpn-iphone-la5-min.png "ExpressVPN iPhone客户端")](#iphone和ios设备下载安装expressvpn)
 
 有一点提示，首次在ExpressVPN App登录的时候，需要输入激活码，在后台一眼就能找到激活码（Activation Code）。
 
@@ -130,11 +130,11 @@ ExpressVPN官网提供了iOS系统的安装包，可以使用iPhone自带的浏�
 
 连接界面：
 
-[![ExpressVPN iPhone速度测试](https://www.safewebcn.com/img/expressvpn-iphone-marina_bay.png "ExpressVPN iPhone客户端")](#iphone使用提示)
+[![ExpressVPN iPhone速度测试](https://linkv.org/img/expressvpn-iphone-marina_bay.png "ExpressVPN iPhone客户端")](#iphone使用提示)
 
 使用SpeedTest进行测速结果：
 
-[![ExpressVPN iPhone速度测试](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2021-11.png "ExpressVPN iPhone客户端")](#iphone使用提示)
+[![ExpressVPN iPhone速度测试](https://linkv.org/img/expressvpn-iphone-speedtest-2021-11.png "ExpressVPN iPhone客户端")](#iphone使用提示)
 
 在苹果手机iPhone上使用移动4G网络连接Singapore–Marina Bay，测试的下行速度是29.71Mbps，在几乎所有的iPhone翻墙软件中，这个速度水平都算得上很不错的，当然实际的使用过程中，在观看油管高清视频也不会存在卡顿。
 
@@ -144,13 +144,11 @@ ExpressVPN官网提供了半自动配置脚本的方案，按照这个方案不�
 
 **半自动配置脚本**:在iPhone或是iPad用iOS系统自带的safari浏览器进入官网登录账号，接着点击My account->Set up ExpressVPN->iPhone,iPad，然后下载配置文件进行安装，然后进入系统设置Settings->VPN，进行连接，输入用户名和密码就可以使用了。
 
-…<a rel="nofollow noopener" href="https://www.fastvpncn.com/2020%e5%b9%b4expressvpn%e5%9c%a8%e5%9b%bd%e5%86%85%e4%bd%bf%e7%94%a8%e6%80%8e%e4%b9%88%e6%a0%b7%ef%bc%9f/" target="_blank">阅读ExpressVPN测评和使用提示</a>获取更多使用技巧和测试结果。
-
 ### <center><a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank"> 获取ExpressVPN优惠 >></a></center>
 
 ## 2.<a rel="nofollow noopener" href="#如何打开strongvpn官网" target="_blank"> StrongVPN – 性价比最佳</a>
 
-[![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
+[![StrongVPN](https://linkv.org/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
 >确认可用，但iOS版本的App客户端直连还未恢复，需要联系客服进行手动设置，**其他平台的精简版客户端无影响，可用节点较多**，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，支持支付宝Alipay付款，但是官网套餐页面直接提交到支付宝购买可能出现参数错误，需要在提交注册后到邮箱查看账号和密码，登录官网会员后台进行支付，详情可参考：<a rel="noopener" href="https://vpncn.github.io/#%E6%94%AF%E4%BB%98%E5%AE%9D%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0strongvpn" target="_blank">如何购买和使用StrongVPN</a>。
 
@@ -181,9 +179,3 @@ StrongVPN从近3年开始也开始重视开发中国市场，售后服务也不�
 如果安装或者连接遇到问题，可以在官网的右下角的“Help”聊天框->Get in touch->Live chat，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN UDP/TCP`**，UDP和TCP哪个好用用那个，建议TCP，我使用时感觉TCP相比UDP更容易连上一些。
 
 --------------------------------------------
-
-**查看更多VPN选择攻略**：
-
-<a rel="noopener" href="https://www.fastvpncn.com/best-iphone-vpn-for-china/" target="_blank">iPhone VPN推荐</a>
-
-<a rel="noopener" href="https://vpncn.github.io" target="_blank">翻墙软件VPN推荐指南</a>
